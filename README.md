@@ -58,7 +58,7 @@ docker images
 ouputnya:
 ```bash
 REPOSITORY              TAG       IMAGE ID         CREATED           SIZE
-dockerpertamaku     v1    023ab91c6291     3 minutes ago     1 MB
+dockerpertamaku         v1        023ab91c6291     3 minutes ago     1 MB
 ```
 
 command tag
